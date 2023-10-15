@@ -1,5 +1,6 @@
 import React from 'react'
-// import { Link } from 'react-router-dom'
+//import { Link } from 'react-router-dom';
+import {HashLink} from "react-router-hash-link";
 
 const Header = () => {
   return (
@@ -7,10 +8,10 @@ const Header = () => {
     <nav>
     <h1>TechPark</h1>
     <div>
-        <a href="/">Home</a>
-        <a href="/#about">About US</a>
-        <a href="/query">Query</a>
-        <a href="/service">Service</a>
+        <HashLink to={"/"}>Home</HashLink>
+        <HashLink to={"/#about"}>About US</HashLink>
+        <HashLink to={"/query"}>Query</HashLink>
+        <HashLink to={"/service"}>Service</HashLink>
     </div>
     </nav>
     </>

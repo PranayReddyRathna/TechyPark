@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&family=Overlock:ital@1&family=Permanent+Marker&family=Yatra+One&display=swap');
+.footer-content{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(246, 247, 248);
+    
+    div{
+        
+        font-family:'Roboto';
+    }
+    .element{
+        margin-right:40px;
+        height:10vh;
+        width:30%;
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        
+    }
+
+}

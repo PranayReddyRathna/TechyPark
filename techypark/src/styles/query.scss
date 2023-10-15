@@ -1,0 +1,44 @@
+.query{
+    background-color: rgb(248, 249, 249);
+    display: flex;
+    
+    justify-content: center;
+    height: 90vh;
+    width: 100%;
+    h1{
+        margin-top: 100px;
+        text-decoration: underline;
+        text-transform: capitalize;
+    }
+    main{
+    form{
+    div{
+        display:flex;
+       
+        align-items:center;
+       
+        margin:30px 30px 0px 0px;
+        font-size:20px;
+        label{
+            margin-right:60px;
+        }
+        input{
+            width:50%;
+            padding:1rem;
+            border-radius: 5px;
+          border: 1px solid rgba(123, 123, 123, 0.6);
+        }
+    }
+    }
+    }
+    button{
+        height:2.5rem;
+        width: 5rem;
+        font-size:20px;
+        margin-top:30px;
+        margin-left:125px;
+       background-color: #1b5686;
+       border-radius: 10px 10px 10px 10px;
+    }
+   
+}
