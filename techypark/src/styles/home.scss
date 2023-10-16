@@ -38,7 +38,8 @@ font-family: 'Inclusive Sans', sans-serif;
    
 }
 .home2{
-    background-color: rgba(85, 25, 133, 0.824);
+    background-color: rgb(118 79 149 / 82%);
+    //background-color: rgba(85, 25, 133, 0.824);
    //background-color:rgb(89 99 136 / 82%);
     display:flex;
     justify-content:space-between;
@@ -74,7 +75,8 @@ font-family: 'Inclusive Sans', sans-serif;
     }
 }
 .home3{
-   background-color:rgba(85, 25, 133, 0.824);
+    background-color: rgb(118 79 149 / 82%);
+   //background-color:rgba(85, 25, 133, 0.824);
    >div{
        width:800px;
        height:500px;
@@ -110,7 +112,8 @@ font-family: 'Inclusive Sans', sans-serif;
     height: 100vh;
      display: flex;
     justify-content: flex-end;
-    background-color:rgba(85, 25, 133, 0.824);
+    background-color: rgb(118 79 149 / 82%);
+    //background-color:rgba(85, 25, 133, 0.824);
     
     >div{
         height:70%;
@@ -126,7 +129,7 @@ font-family: 'Inclusive Sans', sans-serif;
         h1{
             text-transform: uppercase;
             text-decoration: underline;
-            font-family: 'Roboto';
+            font-family:Georgia, 'Times New Roman', Times, serif;
         }
         >article{
             display:flex;

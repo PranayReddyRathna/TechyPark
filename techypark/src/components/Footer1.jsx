@@ -4,7 +4,7 @@ const Footer1 = () => {
   return (
     <>
     <div class="footer-content">
-        <div>TechPark</div>
+        <div class="techpark">TechPark</div>
         <div class="element">
         <p>GitHub</p>
         <p>Instagram</p>
